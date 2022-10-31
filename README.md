@@ -4,7 +4,7 @@
 
 
 # Restaurant Landing Page
-### [Live Site](https://foodi.netlify.com/)
+### [Live Site](https://dravyafoodi.netlify.com/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
