@@ -12,6 +12,9 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    color: antiquewhite;
+    font-size: 5rem;
+    font-style: oblique;
 }
 
 .app__navbar-logo img {
